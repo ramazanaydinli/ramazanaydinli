@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramazanaydinli
 - 👀 I’m interested in Image Processing
-- 🌱 I’m currently learning GAN's & PyTorch
+- 🌱 I’m currently learning SQL
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/ramazan-aydinli/
 
 <!---
